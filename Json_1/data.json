@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "adi",
+        "nim" : "20050974022",
+        "alamat" : "kembangsawit,tempursari,sambi,boyolali",
+        "hobi" : [
+            "menulis",
+            "menggambar",
+            "menyanyi"
+        ],
+        "riwayat_pendidikan": {
+            "sd" : "sd 1 tempursari",
+            "smp" : "smp 1 banyudono",
+            "sma" : "sma 3 boyolali"
+        }
+    },
+    {
+        "nama" : "egy",
+        "nim" : "20050974099",
+        "alamat" : "tegalrayung,simo,boyolali",
+        "hobi" : [
+            "berenang",
+            "traveling",
+            "bersepeda"
+        ],
+        "riwayat_pendidikan": {
+            "sd" : "sd 1 simo",
+            "smp" : "smp 1 simo",
+            "sma" : "sma 1 boyolali"
+        }
+    }
+]
